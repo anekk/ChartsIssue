@@ -1,0 +1,6 @@
+framework module Pods_ChartsIssue {
+  umbrella header "Pods-ChartsIssue-umbrella.h"
+
+  export *
+  module * { export * }
+}
